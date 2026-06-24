@@ -16,6 +16,12 @@ To create a low-fidelity wireframe focusing on information hierarchy, user flow,
 
 * Figma
 
+## Figma Design Link
+
+View the complete design here:
+
+https://www.figma.com/design/hBzZUiF2xOuJ5dBt1yLezr/DecodeLabs-Week-2?node-id=0-1&t=HLjNsQt0cnkrZcpA-1
+
 ---
 
 ## Skills Practiced
